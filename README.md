@@ -16,3 +16,7 @@ Make sure you have the following installed on your machine:
 - Java Development Kit (JDK)
 - Maven
 - Your preferred IDE (Netbeans, IntelliJ, Eclipse, etc.)
+  
+## Language Used
+
+- Codename One pluggin-  Makes java code cross platform.
